@@ -1,4 +1,7 @@
 # tapu.assigment.url
+
+Bu projede login olmuş kullanıcadan alınan url farklı bir link içine atarak kullanmasını sağladık.
+Bazı APi'lerin postman sonuçları yazılan kodların çalışma senaryoları denenerek aşağıda görselleştirilmiştir.
  update
  POST :http://localhost:8010/api/v1/users/register
 ![image](https://user-images.githubusercontent.com/66941183/134699202-7ec87cea-4648-483b-a5fb-822ece5b1c50.png)
