@@ -16,3 +16,6 @@ POST http://localhost:8010/api/v1/url/addUrl
 http://localhost:8010/api/v1/url/redirect/479ffd0f-8a7b-4bd8-9289-d083a8aa5319 
 479ffd0f-8a7b-4bd8-9289-d083a8aa5319==google.com
 ![image](https://user-images.githubusercontent.com/66941183/134703053-6c5a079b-36d4-4daf-956b-79235284f239.png)
+
+GET http://localhost:8010/api/v1/url/getUrlFindByUserId/{{userId}}
+![image](https://user-images.githubusercontent.com/66941183/134703701-23cf3c42-2ce9-4d61-861c-080965815db1.png)
